@@ -1,0 +1,454 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="format-detection" content="telephone=no">
+<title>ぎふ就職氷河期世代活躍支援プラットフォーム</title>
+<meta name="keywords" content="ぎふ,岐阜,就職氷河期世代,支援,応援,プラットフォーム,正社員,社会参加">
+<meta name="description" content="就職氷河期世代を応援！新しい未来へ踏み出そう！岐阜県では「就職氷河期世代」の就職・正社員化・多様な社会参加を支援しています。">
+    
+<!-- OGP -->
+<meta property="og:locale" content="ja_JP">
+<meta property="og:title" content="ぎふ就職氷河期世代活躍支援プラットフォーム">
+<meta property="og:description" content="就職氷河期世代を応援！新しい未来へ踏み出そう！岐阜県では「就職氷河期世代」の就職・正社員化・多様な社会参加を支援しています。">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.zinzai-kikaku.jp/gifu-r3hyogaki/">
+<meta property="og:image" content="https://www.zinzai-kikaku.jp/gifu-r3hyogaki/ogp.png">
+<!-- /OGP -->
+    
+<!-- webfont -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+
+<!-- CSS -->
+<link type="text/css" href="common/css/vendor/sanitize.css" rel="stylesheet" media="all">
+<link type="text/css" href="common/js/vendor/perfect-scrollbar.css" rel="stylesheet" media="all">
+<link type="text/css" href="common/css/common.css" rel="stylesheet" media="all">
+<link type="text/css" href="common/css/base.css?v=210818" rel="stylesheet" media="all">
+<link type="text/css" href="common/css/top.css" rel="stylesheet" media="all">
+
+
+<!-- Javascript -->
+<script type="text/javascript" src="common/js/vendor/jquery-3.4.1.min.js" charset="UTF-8"></script>
+<script type="text/javascript" src="common/js/vendor/smooth-scroll.min.js" charset="UTF-8"></script>
+<script type="text/javascript" src="common/js/vendor/perfect-scrollbar.jquery.js" charset="UTF-8"></script>
+<script type="text/javascript" src="common/js/slide_menu.js" charset="UTF-8"></script>
+
+<script type="text/javascript" src="common/js/function.js" charset="UTF-8"></script>
+
+</head>
+
+<body>
+<div id="wrapper">
+	<!-- header -->
+	<header class="top">
+		<!-- inner -->
+		<div id="header-inner">
+            <h1 id="header-logo"><a href="index.html"><img src="images/logo.png" width="490" height="104" alt="ぎふ就職氷河期世代活躍支援プラットフォーム"/></a></h1>
+			<div class="header-spmenu"><img src="common/images/sp_menu_bar.png" alt="spmenu"></div>
+			<!-- navi -->
+			<nav>
+				<ul id="navi-inner">
+                    <li><a href="#generation">就職氷河期世代の方</a></li>
+                    <li><a href="#forfamily">ご家族の方</a></li>
+                    <li><a href="#forowner">事業主の方</a></li>
+                    <li><a href="#contact">相談窓口</a></li>
+			  	  	<li class="close-button">CLOSE</li>
+		  	  	</ul>
+			</nav>
+		</div>
+		<!-- inner  end -->
+	</header>
+    <div class="top-image" data-aos="fade-in">
+        <h1><img src="images/index_03.png" width="1260" height="285" alt="私たちは、就職氷河期世代を応援します！"/></h1>
+        <div class="photo"><img src="images/index_06.png" width="1400" height="1054" alt=""/></div>
+	</div>
+    <main id="contents">
+        <ul class="top-navi">
+            <li><a href="#generation">就職氷河期世代の方</a></li>
+            <li><a href="#forfamily">ご家族の方</a></li>
+            <li><a href="#forowner">事業主の方</a></li>
+            <li><a href="#contact">相談窓口</a></li>
+        </ul>
+        <section class="contents-inner mt-space8p">
+            <h1 class="section-title">就職氷河期世代とは</h1>
+            <p>
+                社会的に就職難となった1993年～2004年頃に学校卒業期を迎えた世代（概ね35～54歳）を就職氷河期世代と呼び、その就職期が厳しい経済状況にあったが故に、一人一人の意思等によらず、未就職、不安定就労等を余儀なくされ、引き続きその影響を受けている方々です。<br>
+                ぎふ就職氷河期世代活躍支援プラットフォームでは、
+            </p>
+            <ul class="bg-y-list">
+                <li> ・不安定な就労状態にある方</li>
+                <li> ・長期間にわたり無業状態にある方</li>
+                <li> ・社会参加に向けた支援を必要とする方</li>
+            </ul>
+            <p>など、様々な課題に直面している就職氷河期世代の方を支援していきます。</p>
+        </section>
+        <div class="section-border"></div>
+        <section class="contents-inner-full mt-space5p">
+            <div id="contact" class="anchor-item"></div>
+            <h1 class="section-title">就職氷河期世代の活躍の場を<span>広げるための相談窓口</span></h1>
+            <p class="tx-ce">
+                岐阜県では、就職氷河期世代の就職・正社員化や<br class="pc-only">社会参加の実現等に向けた取組を官民一体となって推進するため、<br class="pc-only">プラットフォームを設置し、課題に合わせた様々な窓口を設置しています。
+            </p>
+            <div class="block-4-item">
+                <section class="item bg-y-brbx">
+                    <div>
+                        <h2>ハローワーク</h2>
+                        <p><span>（岐阜・</span><span>大垣・</span><span>揖斐・</span><span>多治見・</span><span>高山・</span><span>恵那・</span><span>関・</span><span>美濃加茂・</span><span>岐阜八幡・</span><span>中津川）</span></p>
+                        <a href="https://jsite.mhlw.go.jp/gifu-roudoukyoku/hw/anteisyo.html" target="_blank" class="button">詳細はこちら</a>
+                    </div>
+                </section>
+                <section class="item bg-y-brbx">
+                    <div>
+                        <h2>岐阜県総合人材<span>チャレンジセンター</span><br>（ジンチャレ！）</h2>
+                        <p>キャリアカウンセラーによる就職相談で就職活動をサポート就職活動の基礎知識やノウハウ、求人情報をお届け</p>
+                        <a href="https://jinchare.jinzai-gifu.jp/ice_agesupport" target="_blank" class="button">詳細はこちら</a>
+                    </div>
+                </section>
+                <section class="item bg-y-brbx">
+                    <div>
+                        <h2>岐阜県若者<span>サポートステーション</span></h2>
+                        <p>独自プログラムにより一人<br>ひとりにベストマッチを提案</p>
+                        <a href="https://gifusapo.icds.jp/" target="_blank" class="button">詳細はこちら</a>
+                    </div>
+                </section>
+                <section class="item bg-y-brbx">
+                    <div>
+                        <h2>ひきこもり<span>地域支援センター</span></h2>
+                        <p>引きこもりに悩む本人や家族を対象に、<br>気持ちに寄り添い相談を受付</p>
+                        <a href="https://www.pref.gifu.lg.jp/page/14947.html" target="_blank" class="button">詳細はこちら</a>
+                    </div>
+                </section>
+            </div>
+        </section>
+        <div class="section-border"></div>
+        <div class="bg-g-bx">
+            <section class="contents-inner">
+                <div id="generation" class="anchor-item"></div>
+                <h1 class="section-title">就職氷河期世代の方へ</h1>
+                <section class="generation">
+                    <h2>不安定な就労状態にある方①</h2>
+                    <div class="inner">
+                        <h3>今すぐ仕事を探したい！</h3>
+                        <p class="infomation">
+                            ハローワーク<br>岐阜県総合人材チャレンジセンター<br class="sp-only">（ジンチャレ！）
+                        </p>
+                        <ul class="tag">
+                            <li>職業相談</li>
+                            <li>求人紹介</li>
+                            <li>面接対策</li>
+                            <li>企業説明会</li>
+                            <li>定着支援</li>
+                        </ul>
+                    </div>
+                </section>
+                <section class="generation">
+                    <h2>不安定な就労状態にある方②</h2>
+                    <div class="inner">
+                        <h3>資格がとりたい！<br>就職活動に役立つ情報が<br class="sp-only">欲しい！</h3>
+                        <p class="infomation">
+                            ハローワーク<br>岐阜県総合人材チャレンジセンター<br class="sp-only">（ジンチャレ！）<br>岐阜県若者サポートステーション
+                        </p>
+                        <ul class="tag">
+                            <li>職業訓練</li>
+                            <li>講座・セミナー</li>
+                            <li>面接対策</li>
+                        </ul>
+                    </div>
+                </section>
+                <section class="generation">
+                    <h2>無業の状態にある方</h2>
+                    <div class="inner">
+                        <h3>働くための準備がしたい！</h3>
+                        <p class="infomation">
+                            岐阜県総合人材チャレンジセンター<br class="sp-only">（ジンチャレ！）<br>岐阜県若者サポートステーション
+                        </p>
+                        <ul class="tag">
+                            <li>職業訓練</li>
+                            <li>講座・セミナー</li>
+                            <li>面接対策</li>
+                            <li>職場体験</li>
+                            <li>定着支援</li>
+                        </ul>
+                    </div>
+                </section>
+                <section class="generation">
+                    <h2>社会参加に向けた支援を<br class="sp-only">必要とする方</h2>
+                    <div class="inner">
+                        <h3>社会とのつながりを<br class="sp-only">持ちたい！</h3>
+                        <p class="infomation">
+                            ひきこもり地域支援センター
+                        </p>
+                        <ul class="tag">
+                            <li>ひきこもり相談</li>
+                            <li>社会参加支援</li>
+                            <li>就労支援</li>
+                            <li>家族支援</li>
+                        </ul>
+                    </div>
+                </section>
+            </section>
+        </div>
+        <div class="bg-event-bx">
+            <section class="contents-inner event">
+                <h1 class="section-title">イベント情報</h1>
+                <h2>就職氷河期世代を対象とした<br>合同企業説明会</h2>
+                <p class="tx-ce mt-space3p">
+                    岐阜県内を中心とした企業との合同企業説明会を開催！<br>
+                    様々な企業の担当者から仕事情報を直接聞けるチャンスです！
+                </p>
+                <table cellspacing="0" class="data-tstyle mt-space3p">
+                    <tbody>
+                        <tr>
+                        <th>■出展企業数</th>
+                        <td>：合計20社程度</td>
+                        </tr>
+                        <tr>
+                        <th>■申込み方法</th>
+                        <td>：事前エントリーを下部に設置するお申込みフォーマットから受け付けております。</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <!--<a href="information1.pdf" target="_blank" class="button size-l">ご案内チラシはこちら</a>-->
+                <p class="button size-l under">ご案内チラシはこちら</p>
+                <p class="st-color mt-space3p">※11月中旬にて公開を予定しております。</p>
+                <section class="event-detail">
+                    <h1>1月22日（土）</h1>
+                    <p>13時～17時（受付12時30分～13時）</p>
+                    <h2>多治見会場<br>多治見市産業文化センター　<br class="sp-only">大会議室</h2>
+                    <p>（岐阜県多治見市新町1丁目23番地）</p>
+                </section>
+                <section class="event-detail">
+                    <h1>2月11日（金・祝）</h1>
+                    <p>13時～17時（受付12時30分～13時）</p>
+                    <h2>岐阜会場<br>岐阜市文化センター　展示室</h2>
+                    <p>（岐阜県岐阜市金町5丁目7-2）</p>
+                </section>
+                <!--<a href="#" target="_blank" class="button size-l">参画企業一覧はこちら</a>-->
+                <p target="_blank" class="button size-l under">参画企業一覧はこちら</p>
+                <p class="st-color mt-space3p">※11月中旬にて公開を予定しております。</p>
+                <h2 class="st-color mt-space5p">お申込みはこちらから</h2>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSfjWhoL1sP3PFgcRxzR5ha7EkroF7jRHe0bxAik36qdRcPYWg/viewform?usp=sf_link" target="_blank" class="button size-ll">お申込みフォーマット</a>
+            </section>
+        </div>
+        <div class="section-border"></div>
+        <div class="bg-g-bx">
+            <section class="contents-inner">
+                <div id="forfamily" class="anchor-item"></div>
+                <h1 class="section-title">就職氷河期世代のご家族の方へ</h1>
+                <h2 class="section-stitle">支援内容</h2>
+                <p class="tx-ce mt-space3p">
+                    各機関・団体では、就職氷河期世代の方（ご本人）に限らず、<br class="pc-only">ご家族の方からのご相談も受け付けておりますので、安心してご相談ください。
+                </p>
+                <section class="generation">
+                    <h2>「安定就職に向けた支援」に<br class="sp-only">ついてのご相談</h2>
+                    <div class="inner">
+                        <h3>ハローワークでは</h3>
+                        <p>
+                            就職氷河期世代専門相談窓口を開設しています。職業相談・求人紹介はもちろんのこと、就職前のスキルアップを目的としたハロートレーニング（職業訓練）、自己理解や職業に対する理解を深めるためのキャリアコンサルティングなど、各々の目標にあった支援についてご案内します。
+                        </p>
+                    </div>
+                </section>
+                <section class="generation">
+                    <h2>「社会的・職業的自立に向けた支援」についてのご相談</h2>
+                    <div class="inner">
+                        <h3>岐阜県若者サポート<br class="sp-only">ステーションでは</h3>
+                        <p>
+                            非正規雇用、介護による離職や長期無業状態など、一人では就職活動が難しい方についての相談やメンタルカウンセリングを行うほか、就活サークルやパソコン講座などの各種プログラム、職場体験、保護者サポートプログラムなどについてご案内します。
+                        </p>
+                    </div>
+                </section>
+                <section class="generation">
+                    <h2>「社会参加に向けた支援」に<br class="sp-only">ついてのご相談</h2>
+                    <div class="inner">
+                        <h3>ひきこもり地域<br class="sp-only">支援センターでは</h3>
+                        <p>
+                            社会に出ることを目標とするだけではなく、ご本人の望む社会との関わり合いを支援しており、電話・面接による個別相談を行っています。また、グループミーティング（本人のつどい、家族のつどい）、ひきこもり講座などについてご案内します。
+                        </p>
+                    </div>
+                </section>
+            </section>
+        </div>
+        <div class="section-border"></div>
+        <div class="bg-w-bx">
+            <section class="contents-inner">
+                <div id="forowner" class="anchor-item"></div>
+                <h1 class="section-title">事業主の皆様へ</h1>
+                <h2 class="section-stitle">就職氷河期世代の採用を<br class="sp-only">是非ご検討下さい</h2>
+                <p class="tx-ce mt-space3p">
+                    ハローワークでは、「就職氷河期世代」で正社員雇用の機会に<br class="pc-only">恵まれなかった方の就職支援を行うため、<br class="pc-only">対象者を募集する正社員求人の受付を行っています。<br>
+                    「歓迎求人」「限定求人」のご協力をお願い致します。
+                </p>
+                <div class="bg-y-bx mt-space5p">
+                    <section class="generation">
+                        <h3>「就職氷河期世代」とは？<span>次のいずれも満たす方です。</span></h3>
+                        <ul class="bg-b-list">
+                            <li>①年齢が35歳以上54歳以下の方</li>
+                            <li>②雇入れ日前1年間に正社員として雇用されていない方</li>
+                            <li>③安定した就労の経験が少ない方</li>
+                            <li>④正社員として在職中でない方</li>
+                            <li>⑤安定した就職を希望している方</li>
+                        </ul>
+                    </section>
+                </div>
+                <h2 class="section-stitle mt-space5p">求人の提出方法は2通りです</h2>
+                <section class="generation-s">
+                    <h3>歓迎求人<span>（就職氷河期世代の応募を<br class="sp-only">歓迎する求人）</span></h3>
+                    <ul class="bg-b-list">
+                        <li>●経験等：不問</li>
+                        <li>●免許資格：不問又は実務経験を問わない</li>
+                        <li>●雇用期間：定めなし</li>
+                        <li>●年齢：不問又は定年年齢未満</li>
+                        <li>※備考欄に「歓迎求人」であることの記載</li>
+                    </ul>
+                </section>
+                <section class="generation-s">
+                    <h3>限定求人<span>（就職氷河期世代のみを<br class="sp-only">募集する求人）</span></h3>
+                    <ul class="bg-b-list">
+                        <li>●経験等：不問</li>
+                        <li>●免許資格：不問又は実務経験を問わない</li>
+                        <li>●雇用期間：定めなし</li>
+                        <li>●年齢：35歳以上〜54歳以下</li>
+                        <li>※備考欄に「限定求人」であることの記載</li>
+                    </ul>
+                </section>
+                <h2 class="section-stitle mt-space5p">各種助成金のご案内</h2>
+                <p class="tx-ce mt-space3p">
+                    事業主の方が、就職氷河期世代の方々の積極的な採用や人材育成を行った場合に<br class="pc-only">利用することが出来る主な助成金についてご案内します。
+                </p>
+                <section class="bg-y-crbx">
+                    <h3>特定求職者雇用開発助成金</h3>
+                    <dl>
+                        <dt class="section-stitle">就職氷河期世代<br class="sp-only">安定雇用実現コース</dt>
+                        <dd>
+                            <p class="tx-ce">正社員経験が無い方や、正社員経験が少ない方<br class="pc-only">（非正規雇用労働者である方も含む）を、<br class="pc-only">正社員として雇い入れる場合に利用出来ます。</p>
+                            <figure><img src="images/index_18.png" width="372" height="100" alt="支給額最大60万円"/></figure>
+                            <a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000158169_00001.html" target="_blank" class="button size-l">詳細はこちら</a>
+                        </dd>
+                    </dl>
+                </section>
+                <section class="bg-y-crbx">
+                    <h3>トライアル雇用助成金</h3>
+                    <dl>
+                        <dt class="section-stitle">一般トライアルコース</dt>
+                        <dd>
+                            <p class="tx-ce">安定的な就職が困難な求職者を<br class="pc-only">一定期間（原則3か月）試行雇用する場合に利用できます。</p>
+                            <figure><img src="images/index_25.png" width="372" height="100" alt="支給額最大12万円"/></figure>
+                            <a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/kyufukin/trial_koyou.html" target="_blank" class="button size-l">詳細はこちら</a>
+                        </dd>
+                    </dl>
+                </section>
+                <section class="bg-y-crbx">
+                    <h3>キャリアアップ助成金</h3>
+                    <dl>
+                        <dt class="section-stitle">正社員化コース 他</dt>
+                        <dd>
+                            <p class="tx-ce">企業内の非正規雇用労働者を<br class="pc-only">正規雇用労働者等に転換等させた場合に利用出来ます。</p>
+                            <figure><img src="images/index_27.png" width="372" height="100" alt="支給額最大72万円"/></figure>
+                            <a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/part_haken/jigyounushi/career.html" target="_blank" class="button size-l">詳細はこちら</a>
+                        </dd>
+                    </dl>
+                </section>
+                <h2 class="section-stitle mt-space5p">助成金の申請・お問合せ先</h2>
+                <p class="tx-ce mt-space3p">
+                    助成金センター　<br class="sp-only">〒500-8842　岐阜市金町4-30<br>
+                    明治安田生命岐阜金町ビル3階　<br class="sp-only">TEL：058-263-5650
+                </p>
+            </section>
+        </div>
+        <div class="bg-event-bx">
+            <section class="contents-inner event">
+                <h1 class="section-title">イベント情報</h1>
+                <section>
+                    <h2 class="section-stitle">就職氷河期世代の再評価による<br>人材確保戦略セミナー</h2>
+                    <div class="att mt-space3p">参加費無料</div>
+                    <p class="mt-space3p">
+                        ワークショップを活用した採用課題の明確化と氷河期世代人材の再評価および活用メリットを改めて考えるセミナーを通じて、それぞれの企業にあった人材確保の在り方を見出していきます。<br>
+                        ●ご参加いただいた企業様には、採用の見直しやマッチングに関するサポートを専門スタッフにより行います。参加費等については一切かかりません。
+                    </p>
+                    <a href="information2.pdf" target="_blank" class="button size-l">ご案内チラシはこちら</a>
+                    <section class="event-detail">
+                        <dl>
+                            <dt>開催日時</dt>
+                            <dd>令和3年9月15日（水）14時～16時</dd>
+                            <dt>開催形式</dt>
+                            <dd>
+                                WEBセミナー　※Teamsにて開催予定<br>
+                                参加方法など詳細につきましては、別途ご案内いたします。始めてオンラインセミナーに参加する企業様にも丁寧にご案内いたしますので安心してご参加ください。オンデマンド視聴を希望される方へもご案内いたしますので、お申込みをお待ちしております。
+                            </dd>
+                            <dt>セミナープログラム</dt>
+                            <dd>
+                                <ul>
+                                    <li>1.就職氷河期世代人材への５つの誤解<br>～就職氷河期世代人材はニートとは真逆です～</li>
+                                    <li>2.中小企業の人材採用戦略<br>～社会変革期を乗り越えるための採用再定義～</li>
+                                    <li>3.本当に活躍できる人材を見出すワークショップ<br>～５つのステップで採用が変わる～</li>
+                                </ul>
+                            </dd>
+                        </dl>
+                    </section>
+                    <h2 class="st-color mt-space5p">お申込みはこちらから</h2>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSdsG3cK00vfMaavvV6FWZ4NS2v1kRdy-_BuUVITQQjDDzt9pA/viewform?usp=sf_link" target="_blank" class="button size-ll">お申込みフォーマット</a>
+                    <h2 class="section-stitle mt-space3p">セミナー情報　<br class="sp-only">※9月15日以降公開予定</h2>
+                    <!--<a href="#" target="_blank" class="button size-lm">セミナーオンデマンド動画はこちら</a>
+                    <a href="#" target="_blank" class="button size-lm">セミナー資料はこちら</a>-->
+                    <p class="button size-lm">セミナーオンデマンド動画はこちら</p>
+                    <p class="button size-lm">セミナー資料はこちら</p>
+                </section>
+                <section class="sub-border">
+                    <h2 class="section-stitle">就職氷河期世代を対象とした<br>合同企業説明会</h2>
+                    <div class="att mt-space3p">参加費無料</div>
+                    <p class="tx-ce mt-space3p">
+                        岐阜県内の就職氷河期世代の求職者の方を対象とした合同企業説明会を開催！<br>
+                        雇用のミスマッチ解消へ向けて、求職者との相互理解を深める絶好の機会です！
+                    </p>
+                    <table cellspacing="0" class="data-tstyle mt-space3p">
+                        <tbody>
+                            <tr><th>■参加費用</th><td>：無料</td></tr>
+                            <tr><th>■出展企業数</th><td>：合計20社程度</td></tr>
+                            <tr><th>■エントリー方法</th><td>：下部に設置するお申込みフォーマットよりお申込み下さい。</td></tr>
+                            <tr><th>■申込み期限</th><td>：2021年11月30日（火）18時まで</td></tr>
+                        </tbody>
+                    </table>
+                    <a href="information2.pdf" target="_blank" class="button size-l">ご案内チラシはこちら</a>
+                    <section class="event-detail">
+                        <dl>
+                            <dt>多治見会場</dt>
+                            <dd>
+                                <table cellspacing="0" class="data-tstyle">
+                                    <tbody>
+                                        <tr><th>日時</th><td>：1月22日（土）13時～17時</td></tr>
+                                        <tr><th>場所</th><td>：多治見市産業文化センター　大会議室<br class="pc-only">（岐阜県多治見市新町1丁目23番地）</td></tr>
+                                    </tbody>
+                                </table>
+                            </dd>
+                        </dl>
+                    </section>
+                    <h2 class="st-color mt-space5p">お申込みはこちらから</h2>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSfrcHLc1Kxsk4gAZ1KNPUKoaEidBQuMqxtMN5B87NOuxVEl8g/viewform?usp=sf_link" target="_blank" class="button size-ll">　合同企業説明会　<br class="sp-only">参加申込みはこちら</a>
+                </section>
+            </section>
+        </div>
+    </main>
+    <!-- page top -->
+    <div class="pagetop"><a href="#wrapper"><img src="common/images/pagetop.png" width="150" height="45" alt="pagetop"/></a></div>
+	<!-- footer -->
+  	<footer>
+        <h1>岐阜労働局</h1>
+        <p class="mt-space3p">
+            「就職氷河期世代活躍支援都道府県<br class="sp-only">プラットフォームを活用した支援」<br>
+            本事業は岐阜労働局より株式会社人財企画が受託・運営を行っております
+        </p>
+        <h2>お問い合わせ</h2>
+        <p>
+            運営事務局：株式会社人財企画<br>
+            TEL：052-220-3303<br class="sp-only">（平日午前9時15分から午後6時まで）<br>
+            MAIL：<a href="mailto:kikaku@zinzai-kikaku.com">kikaku@zinzai-kikaku.com</a>
+        </p>
+  	</footer>
+  	<!-- footer end -->
+</div>
+</body>
+</html>
