@@ -1,0 +1,172 @@
+@charset "UTF-8";
+
+/* CSS Document */
+
+@font-face {
+	font-family: YuGothicM;
+	src: local("Yu Gothic Medium"),
+	local("Yu Gothic");
+	font-weight: 500;
+}
+
+html {
+	font-size: 62.5%;
+	-ms-overflow-style: auto;
+	-webkit-font-smoothing: antialiased;
+}
+body {
+	font-family: 'Noto Sans JP', "游ゴシック体", YuGothic, "游ゴシック", "Yu Gothic", YuGothicM, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-size: 20px;
+	font-size: 2rem;
+	line-height: 200%;
+	margin: 0px;
+	padding: 0px;
+	color: #333;
+	font-weight: 500;
+	-webkit-font-smoothing: subpixel-antialiased;
+}
+
+@-ms-viewport {
+	width: auto!important;
+	initial-scale: 1;
+}
+
+/*==================================================
+
+title
+==================================================*/
+
+
+h1 {
+	font-size: 4rem;
+	line-height: 180%;
+}
+h2 {
+	font-size: 3rem;
+	line-height: 180%;
+}
+h3 {
+	font-size: 3rem;
+    line-height: 180%;
+}
+h4,h5,h6 {
+	font-size: 2rem;
+}
+
+p {
+	text-align: left;
+	overflow-wrap: break-word;
+}
+
+/* micro cf */
+
+.clearfix:after {
+    content:" ";
+    display:block;
+    clear:both;
+}
+
+/*==================================================
+
+link img
+==================================================*/
+
+a {
+	color: #0096ff;
+	text-decoration: underline;
+	
+	/* animation */
+	
+	-webkit-transition: all 0.3s;
+	transition: all 0.3s;
+}
+
+a:hover {
+	opacity: 0.7;
+	text-decoration: none;
+}
+
+img {
+	border: 0;
+	vertical-align: top;
+	font-size: 0;
+	line-height: 0; 
+	-ms-interpolation-mode: bicubic;
+}
+
+/*==================================================
+
+margin
+==================================================*/
+
+.mt-space3p {margin-top: 30px!important;}
+.mt-space4p {margin-top: 40px!important;}
+.mt-space5p {margin-top: 50px!important;}
+.mt-space8p {margin-top: 80px!important;}
+.mt-space10p {margin-top: 100px!important;}
+
+.mb-space3p {margin-bottom: 30px!important;}
+.mb-space5p {margin-bottom: 50px!important;}
+.mb-space8p {margin-bottom: 80px!important;}
+.mb-space10p {margin-bottom: 100px!important;}
+
+/*==================================================
+
+list
+==================================================*/
+
+ol,ul {
+  list-style:none;
+  margin: 0;
+  padding: 0;
+}
+
+hr {
+	background-color: #FFF;
+	border-top: 2px dotted #ededed;
+	margin: 10px 0 20px;
+}
+
+@media only screen and (max-width: 768px) {
+	
+    .mt-space3p {margin-top: 4%!important;}
+    .mt-space4p {margin-top: 5%!important;}
+    .mt-space5p {margin-top: 6%!important;}
+    .mt-space8p {margin-top: 10%!important;}
+    .mt-space10p {margin-top: 12%!important;}
+
+    .mb-space3p {margin-bottom: 3%!important;}
+    .mb-space5p {margin-bottom: 5%!important;}
+    .mb-space8p {margin-bottom: 8%!important;}
+    .mb-space10p {margin-bottom: 10%!important;}
+    
+    body {
+        font-size: 16px;
+        font-size: 1.6rem;
+        line-height: 180%;
+    }
+	h1 {
+		font-size: 2.2rem;
+	}
+	h2 {
+		font-size: 2rem;
+	}
+    h3 {
+		font-size: 2rem;
+	}
+	h4,h5,h6 {
+		font-size: 1.8rem;
+	}
+
+	
+}
+@media only screen and (max-width: 568px) {
+	
+
+	
+}
+@media only screen and (max-width: 480px) {
+	
+	
+	
+}
